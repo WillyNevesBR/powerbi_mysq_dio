@@ -20,6 +20,6 @@ Diretrizes para transformação dos dados
 11.	Criada nova tabela para junção Colaborador/Gerente.
 12.	Nome e sobrenome mesclado em um coluna.
 13.	Criação de nova tabela com junção de departamento e local.
-14.	A função mesclar utilizar apenas uma coluna comum para relacionar tabelas, se fosse utilizar o atribuir iria adicionar as linhas da tabela abaixo da outra.
+14.	A função mesclar utiliza apenas uma coluna comum para relacionar tabelas, se fosse utilizar o atribuir iria adicionar as linhas da tabela abaixo da outra.
 15.	Tabela criada com dados de contagem de gerentes.
 16.	Colunas foram removidas, já que não teriam utilidade.
